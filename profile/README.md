@@ -13,7 +13,6 @@ Estamos ejecutando una hoja de ruta de 10 proyectos incrementales para demostrar
 1.  **Nivel 1: Institutional Landing Page** (En curso) - *Next.js + Tailwind + Vercel*
 2.  **Nivel 2: Leads Management System** - *Supabase Integration*
 3.  **Nivel 3: Service Dashboard** - *Auth & Protected Routes*
-4.  ... *(Iremos completando los nombres a medida que avances)*
 10. **Nivel 10: AI Intelligence Wrapper** - *Advanced SaaS Architecture*
 
 ## 🛠️ Stack Tecnológico Principal
@@ -23,7 +22,3 @@ Estamos ejecutando una hoja de ruta de 10 proyectos incrementales para demostrar
 * **Infraestructura:** Vercel.
 
 ---
-
-### 📫 Contacto & Colaboraciones
-¿Tienes un proyecto en mente? Estamos listos para forjarlo.  
-📧 [Tu Email Aquí] | 🌐 [Link a Vercel próximamente]
